@@ -24,3 +24,6 @@ flutter:
         pluginClass: NotificationPermissionsPlugin
       ios:
         pluginClass: NotificationPermissionsPlugin
+      ohos:
+        package: com.vanethos.notification_permissions
+        pluginClass: NotificationPermissionsPlugin
